@@ -9662,3 +9662,7 @@ User notes add aur delete kar sakta hai. Notes browser ke localStorage mein save
 - ECMAScript: https://tc39.es/ecma262/
 
 ---
+
+<p align="center">
+    <a href="#top">↑ Back to Top</a>
+</p>
