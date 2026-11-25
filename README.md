@@ -243,7 +243,7 @@ Hello World!
 
 **Output:**
 
-[Add your browser console output screenshot here.]
+<img src="assets/output_images/1.png" width="600" height="250">
 
 <!-- Add your output screenshot here. Recommended size: 600 × 250 px -->
 
