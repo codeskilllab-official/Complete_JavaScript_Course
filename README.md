@@ -241,7 +241,7 @@ console.log("Hello World!");
 Hello World!
 ```
 
-**Output Screenshot:**
+**Output:**
 
 [Add your browser console output screenshot here.]
 
